@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	/*{"", "cat ~/.pacupdate | sed /📦0/d",					0,		9},*/
-	{"", "echo ' '☕:$(~/mysh/caffeine.sh status char)' '",5,		7},
+	/*{"", "echo ' '☕:$(~/mysh/caffeine.sh status char)' '",5,		7},*/
 	{"", "~/mysh/cputemp.sh",							5,		8},
 	{"", "~/mysh/get-volume.sh",						5,		10},
 	{"", "~/mysh/mydatetime.sh",						5,		0},
